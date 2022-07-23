@@ -21,13 +21,13 @@
 <h2 align="center">:computer: ~ 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 ~ :computer:</h2>
 <br>
 <div style="display: grid; grid-auto-flow: column; grid-column-gap: 10px; " align="center">
-   <img style="margin-right: 10px" align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+   <img style="margin-right: 10px" align="center" width="50px" src="https://icongr.am/devicon/visualstudio-plain.svg" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" width="50px" src="https://icongr.am/devicon/csharp-plain.svg?color=860b8e" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
    <img align="left" width="240px" height="240px" src="https://cdn.discordapp.com/attachments/874129149772570654/921164961185669190/20211216_183028.gif" />
