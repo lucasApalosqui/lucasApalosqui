@@ -13,7 +13,7 @@
    <p>:scream_cat:<b> pronouns: </b> He / Ele
    <p>:calendar:<b> age:</b> 20</p>
    <p>:heart:<b> i love:</b> Watch animes, listen to music, study hypnosis, cook things, capybaras and Java</p>
-   <p>:video_game:<b> favorite games:</b> Castlevania Simphony of the night, League of legends and Blasphemous<p>
+   <p>:video_game:<b> favorite games:</b> Castlevania Simphony of the night, League of legends and Hollow knight<p>
 </div>
 
 <br>
