@@ -11,8 +11,8 @@
 <div>
    <p>:raising_hand:<b> name/nick:</b> Lucas Apalosqui / Caapii</p>
    <p>:scream_cat:<b> pronouns: </b> He / Ele
-   <p>:calendar:<b> age:</b> 21</p>
-   <p>:heart:<b> i love:</b> Watch animes, listen to music, study hypnosis, cook things, capybaras and Java</p>
+   <p>:calendar:<b> age:</b> 23</p>
+   <p>:heart:<b> i love:</b> Watch animes, listen to music, study hypnosis, cook things, capybaras and C#</p>
    <p>:video_game:<b> favorite games:</b> Castlevania Simphony of the night, League of legends and Hollow knight<p>
 </div>
 
